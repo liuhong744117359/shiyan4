@@ -1,0 +1,13 @@
+E:\2023大三下\c#\实验\shiyan4\Models\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+E:\2023大三下\c#\实验\shiyan4\Models\obj\Debug\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023大三下\c#\实验\shiyan4\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+E:\2023大三下\c#\实验\shiyan4\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+E:\2023大三下\c#\实验\shiyan4\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+E:\2023大三下\c#\实验\shiyan4\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+E:\2023大三下\c#\实验\shiyan4\Models\bin\Debug\netcoreapp3.1\Models.runtimeconfig.json
+E:\2023大三下\c#\实验\shiyan4\Models\bin\Debug\netcoreapp3.1\Models.runtimeconfig.dev.json
+E:\2023大三下\c#\实验\shiyan4\Models\bin\Debug\netcoreapp3.1\Models.dll
+E:\2023大三下\c#\实验\shiyan4\Models\bin\Debug\netcoreapp3.1\Models.pdb
+E:\2023大三下\c#\实验\shiyan4\Models\obj\Debug\netcoreapp3.1\Models.dll
+E:\2023大三下\c#\实验\shiyan4\Models\obj\Debug\netcoreapp3.1\Models.pdb
+E:\2023大三下\c#\实验\shiyan4\Models\obj\Debug\netcoreapp3.1\Models.genruntimeconfig.cache
